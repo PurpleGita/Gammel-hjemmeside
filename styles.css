@@ -106,12 +106,10 @@ height:12rem;
 border-radius: 50%;
 padding: 2%;
 text-align: right;
-
 }
 
 .Container-OmMig
 {
-  
   width: 70%;
   display: grid;
   grid-gap: 0rem 0rem;
@@ -120,9 +118,9 @@ text-align: right;
   color: orange;
   font-size: 1.3rem;
   background-color: rgb(81, 16, 134);
-  
 }
 
+   
 #section_Erfaringer
 {
   color: orange;
