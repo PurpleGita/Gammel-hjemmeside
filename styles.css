@@ -62,6 +62,7 @@ a:active
 p
 {
   margin: 0;
+  padding: 0 0.8rem 0 0.8rem;
 }
 
 a
@@ -78,11 +79,7 @@ a
     text-align: center;
     font-size: 1.8rem;
     background-color: rgb(0, 0, 0);
-    
-    
-
 }
-
 
 
 h3
@@ -90,9 +87,6 @@ h3
     text-align: center;
     padding: 1rem;
     margin: 0;
-    
-    
-
 }
 
 #section_OmMig
@@ -102,9 +96,43 @@ h3
   width: 70%;
   margin: 0 auto;
   font-size: 3rem;
+  padding: 0%;
+}
+
+#PP
+{
+width:12rem;
+height:12rem; 
+border-radius: 50%;
+padding: 2%;
+text-align: right;
+
 }
 
 .Container-OmMig
+{
+  
+  width: 70%;
+  display: grid;
+  grid-gap: 0rem 0rem;
+  grid-template-columns: 80% 20%;
+  margin: 0 auto;
+  color: orange;
+  font-size: 1.3rem;
+  background-color: rgb(81, 16, 134);
+  
+}
+
+#section_Erfaringer
+{
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  width: 70%;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.Container-Erfaringer
 {
   width: 70%;
   margin: 0 auto;
@@ -112,3 +140,76 @@ h3
   background-color: rgb(81, 16, 134);
   font-size: 1.3rem;
 }
+
+#section_Kontakt_mig
+{
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  width: 70%;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.Container-Kontakt_mig
+{
+  width: 70%;
+  margin: 0 auto;
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  font-size: 1.3rem;
+}
+
+#section_Frititd
+{
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  width: 70%;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.Container-Frititd
+{
+  width: 70%;
+  margin: 0 auto;
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  font-size: 1.3rem;
+}
+
+#section_Video_Test
+{
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  width: 70%;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.Container-Video_Test
+{
+  width: 70%;
+  margin: 0 auto;
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  font-size: 1.3rem;
+}
+
+#section_Comic_Test
+{
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  width: 70%;
+  margin: 0 auto;
+  font-size: 3rem;
+}
+
+.Container-Comic
+{
+  width: 70%;
+  margin: 0 auto;
+  color: orange;
+  background-color: rgb(81, 16, 134);
+  font-size: 1.3rem;
+}
+
