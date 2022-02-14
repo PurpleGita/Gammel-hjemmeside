@@ -1,2 +1,2 @@
 # Hjemmeside
-min hjemmeside
+min hjemmeside ik fuck.

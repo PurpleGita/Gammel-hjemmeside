@@ -1,0 +1,89 @@
+
+
+/* størrelsen af sidebar*/
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+/* baggrund af sidebar */
+::-webkit-scrollbar-track {
+  background: #f6a40b; 
+}
+ 
+/* den du skal klikke på */
+::-webkit-scrollbar-thumb {
+  background: rgb(26, 26, 26);
+}
+
+/* når du holder sidebar */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(204, 8, 253);
+}
+
+/*når et link ikke er blevet brugt*/
+a:visited
+{
+    color: orange;
+    text-decoration: none;
+}
+
+/*når du holder over links*/
+a:hover
+{
+    color:rgb(204, 8, 253);
+    text-decoration: underline;
+    
+}
+
+/*når et link er blevet brugt*/
+a:link
+{
+    color: orange;
+    text-decoration: none;
+}
+
+/*aktivt link*/
+a:active
+{
+    color: orange;
+    text-decoration: none;
+}
+
+
+.Titel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-style: italic;
+    font-size: 2rem;
+}
+
+
+a
+{
+    padding: 0 1rem 0 1rem;
+}
+
+.Container-Menu{
+    width: 70%;
+    margin: 0 auto;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    font-size: 1.8rem;
+    background-color: rgb(0, 0, 0);
+    
+    
+
+}
+
+
+
+h3
+{
+    text-align: center;
+    padding: 1rem;
+
+}
+
