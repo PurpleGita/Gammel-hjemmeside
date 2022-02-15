@@ -259,3 +259,12 @@ text-align: right;
   text-align: center;
 }
 
+.Container-Page
+{
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  background-color: rgb(81, 16, 134);
+
+}
+
