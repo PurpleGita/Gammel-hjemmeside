@@ -12,31 +12,31 @@ html {
     url('/img/Moon.png');
 	background-repeat: repeat-x;
 	background-position: 
-		0 102%,
+		0 105%,
 		0 100%,
 		0 50%,
 		0 100%,
 		0 0%,
-    0 0%;
+    1500px -6.5%;
 	background-size: 
 		900px,
 		1900px,
 		600px 400px,
 		2000px,
 		400px 260px,
-    6009px;
-	animation: 50s para infinite linear;
+    1400px;
+	animation: 60s para infinite linear;
 	}
 
 @keyframes para {
 	100% {
 		background-position: 
-			-9900px 102%,
-			-5700px 100%,
+			-9900px 105%,
+			-3800px 100%,
 			500px 50%,
 			2000px 100%,
 			400px 0,
-      6009px;
+      1499px -6.5%;
 		}
 	}
 
