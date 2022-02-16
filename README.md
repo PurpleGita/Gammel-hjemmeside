@@ -1,2 +1,2 @@
 # Hjemmeside
-min hjemmeside ik fuck.
+min hjemmeside, ikke lavet til mobil.
