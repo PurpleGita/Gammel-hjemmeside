@@ -7,20 +7,20 @@ html {
     url('/img/Fence.png'), 
 		url('/img/fencejord.png'),
 		url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
-		url('https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png'),
+		url('/img/mountain.png'),
 		url('https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png'),
     url('/img/Moon.png');
 	background-repeat: repeat-x;
 	background-position: 
 		0 105%,
-		0 100%,
+		0 115%,
 		0 50%,
 		0 100%,
 		0 0%,
     1500px -6.5%;
 	background-size: 
 		900px,
-		1900px,
+		1200px,
 		600px 400px,
 		2000px,
 		400px 260px,
@@ -31,8 +31,8 @@ html {
 @keyframes para {
 	100% {
 		background-position: 
-			-9900px 105%,
-			-3800px 100%,
+			-13500px 105%,
+			-7200px 115%,
 			500px 50%,
 			2000px 100%,
 			400px 0,
