@@ -197,7 +197,7 @@ text-align: right;
 {
   display: grid;
   grid-gap: 0% 5%;
-  grid-template-columns: 37% 10%;
+  grid-template-columns: 40% 10%;
   margin: 0 auto;
 
 
@@ -242,26 +242,6 @@ text-align: right;
   color: orange;
   background-color: rgb(81, 16, 134);
   font-size: 130%;
-}
-
-#section_Comic_Test
-{
-  color: orange;
-  background-color: rgb(81, 16, 134);
-  width: 70%;
-  margin: 0 auto;
-  font-size: 300%;
-  
-}
-
-.Container-Comic
-{
-  width: 70%;
-  margin: 0 auto;
-  color: orange;
-  background-color: rgb(81, 16, 134);
-  font-size: 130%;
-  text-align: center;
 }
 
 .Container-Page
